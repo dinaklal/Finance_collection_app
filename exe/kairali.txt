@@ -1,0 +1,4 @@
+@echo off
+start C:\wamp\wampmanager.exe
+
+start chrome "KAIRALI"--start --app=http://localhost/kudumbasree/
